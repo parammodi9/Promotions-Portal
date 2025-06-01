@@ -25,7 +25,7 @@ const Sidebar: React.FC = () => {
     <div className="h-full bg-[#012e71] text-white w-64 flex-shrink-0">
       <div className="p-6 border-b border-[#1a4585]">
         <h2 className="font-bold text-xl flex items-center gap-2">
-          <span className="text-[#e2b969]">HRA</span> Promotions Portal
+          <span className="text-[#e2b969]">HRA</span> Promotions
         </h2>
       </div>
       
